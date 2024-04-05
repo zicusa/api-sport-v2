@@ -1,0 +1,14 @@
+{
+  "name": "api-sport-v2",
+  "version": "1.0.1",
+  "description": "Main version",
+  "main": "index.js",
+  "dependencies": {
+    "@zicusa/api-sv-info": "^1.0.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zicusa",
+  "license": "ISC"
+}
